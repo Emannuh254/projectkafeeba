@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "crop-image": "product-images/img5.jpeg",
+        "farmer-name": "Janet Kamau",
+        "visits": 200,
+        "acres": 3,
+        "farm-location": "Kisumu",
+        "crop-name": "Robusta",
+        "fertilizer": "Organic Fertilizer",
+        "contact-details": {
+            "phone": "0734567890",
+            "email": "janet@gmail.com"
+        }
+    },
+    {
+        "id": 2,
+        "crop-image": "product-images/img3.jpeg",
+        "farmer-name": "John Kithinji",
+        "visits": 1900,
+        "acres": 14,
+        "farm-location": "Tharaka Nithi",
+        "crop-name": "Arabica",
+        "fertilizer": "D.A.P/ C.A.N",
+        "contact-details": {
+            "phone": "0776543210",
+            "email": "john@gmail.com"
+        }
+    },
+    {
+        "id": 3,
+        "crop-image": "product-images/img1.jpeg",
+        "farmer-name": "Sam Tomashi",
+        "visits": 350,
+        "acres": 7,
+        "farm-location": "Nairobi",
+        "crop-name": "Batian",
+        "fertilizer": "Organic Fertilizer",
+        "contact-details": {
+            "phone": "073452625",
+            "email": "sam@gmail.com"
+        }
+    },
+    {
+        "id": 4,
+        "crop-image": "product-images/img3.jpeg",
+        "farmer-name": "Binyamin",
+        "visits": 790,
+        "acres": 5,
+        "farm-location": "Nakuru",
+        "crop-name": "Batian",
+        "fertilizer": "C.A.N",
+        "contact-details": {
+            "phone": "0724993304",
+            "email": "binyamin@gmail.com"
+        }
+    },
+    {
+        "id": 5,
+        "crop-image": "product-images/img2.jpeg",
+        "farmer-name": "Sandra Jones",
+        "visits": 4300,
+        "acres": 2,
+        "farm-location": "Kitale",
+        "crop-name": "Arabica",
+        "fertilizer": "D.A.P",
+        "contact-details": {
+            "phone": "0746100508",
+            "email": "sandra@gmail.com"
+        }
+    },
+    {
+        "id": 6,
+        "crop-image": "product-images/img3.jpeg",
+        "farmer-name": "Kelvin Kimathi",
+        "visits": 650,
+        "acres": 6,
+        "farm-location": "Kitale",
+        "crop-name": "Ruiru",
+        "fertilizer": "Organic Fertilizer",
+        "contact-details": {
+            "phone": "078889999",
+            "email": "kelvin@example.com"
+        }
+    },
+    {
+        "id": 7,
+        "crop-image": "product-images/img4.jpeg",
+        "farmer-name": "Brian Omondi",
+        "visits": 0,
+        "acres": 0,
+        "farm-location": "Kiambu",
+        "crop-name": "Robusta",
+        "fertilizer": "C.A.N",
+        "contact-details": {
+            "phone": "0712345432",
+            "email": "Brian@gmail.com"
+        }
+		
+    }
+	
+]
